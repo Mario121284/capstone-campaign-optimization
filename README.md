@@ -15,7 +15,7 @@ This capstone project involved a detailed performance analysis of digital campai
 - Best audiences: credit/lending and travel segments.
 
 ## 📁 Files
-- [C525 Capstone Slides] https://docs.google.com/presentation/d/1yKMzZQzNrFZUE_YzedVcfudqQuOqGe5Jen3_6Mb-1eA/edit?usp=sharing
+- [C525 Capstone Slides] https://docs.google.com/presentation/d/1t_qjoMW_NXlbYwV6jp_gYlQxTropxPmPmgFbxUdXDno/edit?usp=sharing
 
 ## 👨‍💻 Team
 Jessica Lin, Luis Carabajo, Jason Urena, and others
